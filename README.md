@@ -1,2 +1,2 @@
-# java-2025-1
-- teste
+# Correção de atividades java-2025-1
+- Entrar na pasta atividades
