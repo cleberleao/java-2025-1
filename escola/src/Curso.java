@@ -11,6 +11,10 @@ public class Curso {
         return nomeCurso;
     }
 
+    public int getCargaHoraria(){
+        return cargaHoraria;
+    }
+
     public void exibirCurso(){
         System.out.println("Curso: " + nomeCurso);
         System.out.println("Carga Horaria: "+ cargaHoraria + " horas");
